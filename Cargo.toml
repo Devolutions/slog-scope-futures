@@ -1,14 +1,13 @@
 [package]
 name = "slog-scope-futures"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Josh Robson Chase <josh@robsonchase.com>"]
 license = "MIT/Apache-2.0"
 edition = "2018"
 description = "slog-scope for `Future`s"
 documentation = "https://docs.rs/slog-scope-futures"
 repository = "https://gitlab.com/jrobsonchase/slog-scope-futures"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+readme = "README.md"
 
 [dependencies]
 slog = "2.4.1"
